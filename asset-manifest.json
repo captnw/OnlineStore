@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/captnw/WJ_Commerce.git/static/css/main.2cf40bfe.chunk.css",
+    "main.js": "/captnw/WJ_Commerce.git/static/js/main.be1985f6.chunk.js",
+    "main.js.map": "/captnw/WJ_Commerce.git/static/js/main.be1985f6.chunk.js.map",
+    "runtime-main.js": "/captnw/WJ_Commerce.git/static/js/runtime-main.b0ee8251.js",
+    "runtime-main.js.map": "/captnw/WJ_Commerce.git/static/js/runtime-main.b0ee8251.js.map",
+    "static/js/2.75407fb9.chunk.js": "/captnw/WJ_Commerce.git/static/js/2.75407fb9.chunk.js",
+    "static/js/2.75407fb9.chunk.js.map": "/captnw/WJ_Commerce.git/static/js/2.75407fb9.chunk.js.map",
+    "static/js/3.8b982219.chunk.js": "/captnw/WJ_Commerce.git/static/js/3.8b982219.chunk.js",
+    "static/js/3.8b982219.chunk.js.map": "/captnw/WJ_Commerce.git/static/js/3.8b982219.chunk.js.map",
+    "index.html": "/captnw/WJ_Commerce.git/index.html",
+    "static/css/main.2cf40bfe.chunk.css.map": "/captnw/WJ_Commerce.git/static/css/main.2cf40bfe.chunk.css.map",
+    "static/js/2.75407fb9.chunk.js.LICENSE.txt": "/captnw/WJ_Commerce.git/static/js/2.75407fb9.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/captnw/WJ_Commerce.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ee8251.js",
+    "static/js/2.75407fb9.chunk.js",
+    "static/css/main.2cf40bfe.chunk.css",
+    "static/js/main.be1985f6.chunk.js"
+  ]
+}
